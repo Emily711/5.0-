@@ -1,0 +1,15 @@
+{
+    "name": "5.0录屏",
+    "description": "",
+    "manual": "",
+    "outputType": "project",
+    "main": "/主流程.flow",
+    "version": "1.0.0",
+    "engines": {
+        "designer": "5.0.RC",
+        "server": "5.0.RC",
+        "executor-runtime": "4.2.0"
+    },
+    "uuid": "24e940b7-10cb-4ec8-b0fd-417e66a095dc",
+    "dependencies": {}
+}
